@@ -1,0 +1,11 @@
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+
+Which borough has the highest Airbnb listing in New York City?
+
+From the NYC Airbnb Open Dataset, we gathered that host listings in Manhattan, with the highest listings (21661) is 58 times more than Staten Island (373) with the lowest listings of the 5 boroughs. From all indications, Manhattan is the busiest borough with the most traffic.  
+
+
+What is the average price for an Airbnb in each borough?
+
+The average Airbnb price per borough in New York City starts with the lowest $87 for the Bronx, $100 Queens, $115 Staten Island, $124 Brooklyn, and $197 for Manhattan with the highest of the five boroughs. Manhattan having the highest average price can be attributed to the many attractions in Manhattan, including Times Square, Empire State Building and Wall Street. Also the demand, given the highest listings in Manhattan drives the price. 
+

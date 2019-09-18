@@ -1,0 +1,33 @@
+Team: 3
+Team lead  Duwli - Clean data / Push data
+           Dre –   Data Visualizer / Push data 
+           Leroy - Data Visualizer /Push data
+
+New York City Airbnb 
+
+Describes listing activity and metrics in NYC, NY for 2019.
+
+1). Which borough has the highest Airbnb listings in New York City?
+
+2). What is the average price for an Airbnb in each borough? 
+
+Data Source 
+
+https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
+Strategy and Metrics
+
+1).  Extract data from CSV
+2).  Convert data into necessary data sets:
+3).  Present the connections between respective variables
+
+Data Analysis Tools Plan
+
+Pandas
+Matplotlib
+Jupyter Notebook
+
+Products Produced
+TBD
+
+Repo: https://github.com/duwlitoe/project-one-group3
